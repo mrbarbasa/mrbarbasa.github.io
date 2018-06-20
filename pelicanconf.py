@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Marifel Barbasa'
 SITENAME = 'Marifel Barbasa'
 SITEURL = ''
-THEME = 'themes/pelican-blue'
+THEME = 'themes/pelican-elegant'
 
 PATH = 'content'
 
