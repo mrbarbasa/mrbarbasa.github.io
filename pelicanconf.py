@@ -11,6 +11,10 @@ PATH = 'content'
 TIMEZONE = 'Pacific/Honolulu'
 DEFAULT_LANG = 'en'
 
+DISPLAY_PAGES_ON_MENU = True
+STATIC_PATHS = ['images', 'favicon.ico']
+PAGE_PATHS = ['pages']
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None # 'feeds/all.atom.xml'
 FEED_ALL_RSS = None # 'feeds/all.rss.xml'
@@ -22,6 +26,7 @@ RSS_FEED_SUMMARY_ONLY = False
 
 # Blogroll
 LINKS = (
+    ('About', 'pages/about.html'),
     ('GitHub', 'https://github.com/mrbarbasa'),
     ('Kaggle', 'https://www.kaggle.com/mrbarbasa'),
     ('LinkedIn', 'https://www.linkedin.com/in/mrbarbasa'),)
@@ -40,6 +45,4 @@ ROBOTS_SAVE_AS = 'robots.txt'
 HUMANS_SAVE_AS = 'humans.txt'
 SITEMAP_SAVE_AS = 'sitemap.xml'
 DATE_FORMATS = { 'en': '%B %d, %Y', }
-# Assumes blog images are in `content/images/` and favicon in `content/`
-STATIC_PATHS = ['images', 'favicon.ico']
-# TYPOGRIFY = True # Optional: Need to install it with pip
+TYPOGRIFY = True # Optional: Need to install it with pip

@@ -7,5 +7,10 @@
   </url>
 
 
+  <url>
+    <loc>/pages/about.html</loc>
+    <priority>1.0</priority>
+  </url>
+
 
 </urlset>
