@@ -4,13 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Marifel Barbasa'
 SITENAME = 'Marifel Barbasa'
+SITEDESCRIPTION = 'musings of a lifelong learner'
 SITEURL = ''
-THEME = 'themes/pelican-elegant'
-
+THEME = 'themes/pelicanyan'
 PATH = 'content'
-
 TIMEZONE = 'Pacific/Honolulu'
-
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
@@ -23,18 +21,25 @@ AUTHOR_FEED_RSS = None # 'feeds/%s.rss.xml'
 RSS_FEED_SUMMARY_ONLY = False
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+    ('GitHub', 'https://github.com/mrbarbasa'),
+    ('Kaggle', 'https://www.kaggle.com/mrbarbasa'),
+    ('LinkedIn', 'https://www.linkedin.com/in/mrbarbasa'),)
 
-# Social widget
-# SOCIAL = (('linkedin', 'https://www.linkedin.com/in/mrbarbasa'),
-#           ('github', 'https://github.com/mrbarbasa'),
-#           ('twitter', 'https://twitter.com/mrbarbasa'),
-#           )
+# Uncomment following line if you want document-relative URLs
+# when developing
+# RELATIVE_URLS = True
 
-DEFAULT_PAGINATION = 10
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+# pelicanyan theme settings
+# GA_ACCOUNT # GA account id such as 'UA-12344321-1' (see base.html)
+TWITTER_ACCOUNT = 'mrbarbasa'
+DIRECT_TEMPLATES = (
+    'index', 'categories', 'authors', 'archives', 'sitemap', 
+    'robots', 'humans')
+ROBOTS_SAVE_AS = 'robots.txt'
+HUMANS_SAVE_AS = 'humans.txt'
+SITEMAP_SAVE_AS = 'sitemap.xml'
+DATE_FORMATS = { 'en': '%B %d, %Y', }
+# Assumes blog images are in `content/images/` and favicon in `content/`
+STATIC_PATHS = ['images', 'favicon.ico']
+# TYPOGRIFY = True # Optional: Need to install it with pip
