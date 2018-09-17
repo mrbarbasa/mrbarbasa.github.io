@@ -1,5 +1,6 @@
 Title: About
 Category: About
+Slug: about
 
 I'm a JavaScript full-stack web developer looking to transition into the field of machine learning and AI. Currently, I'm self-studying full-time and enrolled in the <a href="https://www.edx.org/micromasters/mitx-statistics-and-data-science" target="_blank">MITx MicroMasters in Statistics and Data Science</a> program and <a href="https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893" target="_blank">Udacity's Deep Reinforcement Learning Nanodegree</a> program. I have graduated from <a href="https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t" target="_blank">Udacity's Machine Learning Engineer</a>, <a href="https://www.udacity.com/course/natural-language-processing-nanodegree--nd892" target="_blank">Natural Language Processing</a>, and <a href="https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898" target="_blank">Artificial Intelligence Nanodegree</a> programs in 2018.
 

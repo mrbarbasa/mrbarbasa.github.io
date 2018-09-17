@@ -26,7 +26,6 @@ RSS_FEED_SUMMARY_ONLY = False
 
 # Blogroll
 LINKS = (
-    ('About', 'pages/about.html'),
     ('GitHub', 'https://github.com/mrbarbasa'),
     ('Kaggle', 'https://www.kaggle.com/mrbarbasa'),
     ('LinkedIn', 'https://www.linkedin.com/in/mrbarbasa'),)
