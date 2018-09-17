@@ -6,11 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
 
-    <title>Marifel Barbasa</title>
+    <title>Projects</title>
 
     <meta charset="utf-8" />
     <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Marifel Barbasa Full Atom Feed" />
-    <link href="/feeds/machine-learning.atom.xml" type="application/atom+xml" rel="alternate" title="Marifel Barbasa Categories Atom Feed" />
     <link rel="stylesheet" href="/theme/css/poole.css"/>
     <link rel="stylesheet" href="/theme/css/syntax.css"/>
     <link rel="stylesheet" href="/theme/css/lanyon.css"/>
@@ -63,19 +62,19 @@ styles, `#sidebar-checkbox` for behavior. -->
       </div>
 
       <div class="container content">
-<div class="content-title">
-<h2>Machine Learning category</h2>
-</div>
-<div class="posts">
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/test-post.html" rel="bookmark" title="Permalink to Test Post">Test&nbsp;Post</a>
-    </h1>
-    <span class="post-date">September 16, 2018</span>
+    <h1>Projects</h1>
+    
 
-    <p>This is a test post&nbsp;summary.</p>
-  </div>
-</div>
+    <h2>Spooky Author&nbsp;Identification</h2>
+<ul>
+<li>Problem: Authorship&nbsp;attribution</li>
+<li>Type: Multiclass&nbsp;classification</li>
+<li>Task: To identify authors based on samples of their&nbsp;writings</li>
+<li>Dataset: <a href="https://www.kaggle.com/c/spooky-author-identification/data" target="_blank">Kaggle Spooky Author&nbsp;Identification</a></li>
+<li>Project: <a href="https://github.com/mrbarbasa/kaggle-spooky-author" target="_blank">GitHub&nbsp;repository</a></li>
+</ul>
+<p>This is my capstone project work for <a href="https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t" target="_blank">Udacity&#8217;s Machine Learning Engineer Nanodegree</a> program, in which I applied machine learning and <span class="caps">NLP</span> techniques to solve an authorship attribution problem. The task was to identify the horror authors Edgar Allan Poe, <span class="caps">H.P.</span> Lovecraft, and Mary Wollstonecraft Shelley from samples of their writings. 60 iterations of 10-fold cross validation random search was run for each of the following six models: an <span class="caps">MLP</span> with the top 20,000 most common n-gram features, an <span class="caps">MLP</span> with all n-gram features, a <span class="caps">CNN</span> with GloVe embeddings, an <span class="caps">RNN</span> with GloVe embeddings, a <span class="caps">CNN</span> with fastText embeddings, and an <span class="caps">RNN</span> with fastText embeddings. Using multiclass logarithmic loss, or logloss, as the evaluation metric, it was the tuned <span class="caps">MLP</span> with all n-gram features that scored the lowest validation logloss, therefore performing the best. I have published the results in a project report, accessible <a href="https://github.com/mrbarbasa/kaggle-spooky-author/blob/master/report/report.pdf" target="_blank">here</a>.</p>
+
       </div>
 
       <label for="sidebar-checkbox" class="sidebar-toggle"></label>
