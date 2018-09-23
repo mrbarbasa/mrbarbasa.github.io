@@ -1,19 +1,19 @@
 Title: At the Beginning
 Date: 2018-09-22 21:00
-Modified: 2018-09-22 21:00
+Modified: 2018-09-22 21:49
 Category: Machine Learning
 Tags: machine-learning personal
 Slug: beginning
 Authors: Marifel Barbasa
 Summary: How my journey into machine learning began.
 
-Fall 2011. Attended an AI course at <a href="https://manoa.hawaii.edu/" target="_blank">university</a>. There was a lecture on grammar parsing.
+Fall 2011. Attended an AI course at university. There was a lecture on grammar parsing.
 
 Attended another course on using AI in games. Implemented A* search in C++ for the <a href="https://www.bzflag.org/" target="_blank">BZFlag</a> game.
 
 Yet not a whisper of machine learning or deep learning. And I did not wish to become a game developer.
 
-Spring 2015. Studied at <a href="https://www.devleague.com/" target="_blank">DevLeague</a>, Hawaii's first web development and coding bootcamp. An idea for my final project: A generative text, collaborative web app for writing fiction or nonfiction. Two or more persons at a time would be able to write, and if idle for a †ime, the app would come up with prompts/questions to relieve writer's block.
+Spring 2015. Studied at <a href="https://www.devleague.com/" target="_blank">DevLeague</a>, Hawaii's first web development and coding bootcamp. An idea for my final project: A generative text, collaborative web app for writing fiction or nonfiction. Two or more persons at a time would be able to write, and if idle for a time, the app would come up with prompts/questions to relieve writer's block.
 
 Yet it could not be done, since I knew nothing of machine learning. It was just a trendy word, foreign to me.
 
