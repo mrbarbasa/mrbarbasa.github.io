@@ -36,7 +36,7 @@ cloned this repo.
     - (Optional) Set SITEDESCRIPTION
     - (Optional) Set your LINKS
 3. Add your profile photo - Replace the 400x400 PNG located at
-   static/img/profile.png with your own
+   static/img/profile.jpg with your own
 
 Then to try it out locally, back in your blog's directory:
 ```bash
