@@ -10,7 +10,7 @@ This page contains a list of courses or programs that I am currently enrolled in
 
 [**Machine Learning**](#machine-learning)
 
-- [MITx MicroMasters in Statistics and Data Science ](#mitx-micromasters-statistics-and-data-science)
+- [MITx MicroMasters in Statistics and Data Science](#mitx-micromasters-statistics-and-data-science)
 - [Statistical Learning](#statistical-learning)
 - [Machine Learning Engineer Nanodegree](#machine-learning-engineer-nanodegree) &#10003;
 
