@@ -27,7 +27,7 @@ This page contains a list of courses or programs that I am currently enrolled in
 
 [**Reinforcement Learning**](#reinforcement-learning)
 
-- [Deep Reinforcement Learning Nanodegree](#deep-reinforcement-learning-nanodegree)
+- [Deep Reinforcement Learning Nanodegree](#deep-reinforcement-learning-nanodegree) &#10003;
 
 
 [**Artificial Intelligence**](#artificial-intelligence)
@@ -93,12 +93,12 @@ This page contains a list of courses or programs that I am currently enrolled in
     <sup><a href="#toc" style="font-size: 0.7em;">&#8593;</a></sup>
 </h2>
 
-<h3 id="deep-reinforcement-learning-nanodegree">Deep Reinforcement Learning Nanodegree</h3>
+<h3 id="deep-reinforcement-learning-nanodegree">Deep Reinforcement Learning Nanodegree &#10003;</h3>
 - **Institution:** Udacity
 - **Platform:** Udacity
 - **Status:** In Progress
 - **Enrollment:** Paid $999
-- **Links:** <a href="https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893" target="_blank">Nanodegree</a>
+- **Links:** <a href="https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893" target="_blank">Nanodegree</a>, <a href="https://graduation.udacity.com/confirm/XTXFFDDV" target="_blank">Certificate</a>
 
 
 
