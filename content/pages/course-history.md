@@ -96,7 +96,7 @@ This page contains a list of courses or programs that I am currently enrolled in
 <h3 id="deep-reinforcement-learning-nanodegree">Deep Reinforcement Learning Nanodegree &#10003;</h3>
 - **Institution:** Udacity
 - **Platform:** Udacity
-- **Status:** In Progress
+- **Date Completed:** November 25, 2018
 - **Enrollment:** Paid $999
 - **Links:** <a href="https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893" target="_blank">Nanodegree</a>, <a href="https://graduation.udacity.com/confirm/XTXFFDDV" target="_blank">Certificate</a>
 
