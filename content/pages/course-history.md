@@ -35,6 +35,12 @@ This page contains a list of courses or programs that I am currently enrolled in
 - [Artificial Intelligence Nanodegree](#artificial-intelligence-nanodegree) &#10003;
 
 
+[**Programming Languages/Tools**](#programming-languages-tools)
+
+- [iOS & Swift - The Complete iOS App Development Bootcamp](#udemy-ios-swift-bootcamp) &#10003;
+- [Go: The Complete Developer's Guide (Golang)](#udemy-golang-dev-guide) &#10003;
+
+
 
 <h2 id="machine-learning">Machine Learning
     <sup><a href="#toc" style="font-size: 0.7em;">&#8593;</a></sup>
@@ -43,14 +49,14 @@ This page contains a list of courses or programs that I am currently enrolled in
 <h3 id="mitx-micromasters-statistics-and-data-science">MITx MicroMasters in Statistics and Data Science</h3>
 - **Institution:** MIT
 - **Platform:** edX
-- **Status:** In Progress
+- **Status:** Completed 3 of 4 courses (2 with certifications); decided not to continue to full certification (which involves a capstone exam)
 - **Enrollment:** Paid $1350
 - **Links:** <a href="https://www.edx.org/micromasters/mitx-statistics-and-data-science" target="_blank">MicroMasters</a>
 
 <h3 id="statistical-learning">Statistical Learning</a></h3>
 - **Institution:** Stanford
 - **Platform:** Stanford Online
-- **Status:** In Progress
+- **Status:** Partially Completed
 - **Enrollment:** Free
 - **Links:** <a href="https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about" target="_blank">Course</a>
 
@@ -70,7 +76,7 @@ This page contains a list of courses or programs that I am currently enrolled in
 <h3 id="deep-learning-specialization">Deep Learning Specialization</h3>
 - **Institution:** deeplearning.ai
 - **Platform:** Coursera
-- **Status:** In Progress
+- **Status:** Partially Completed
 - **Enrollment:** Auditing
 - **Links:** <a href="https://www.coursera.org/specializations/deep-learning" target="_blank">Courses</a>
 
@@ -112,3 +118,23 @@ This page contains a list of courses or programs that I am currently enrolled in
 - **Date Completed:** July 19, 2018
 - **Enrollment:** Paid $800
 - **Links:** <a href="https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898" target="_blank">Nanodegree</a>, <a href="https://graduation.udacity.com/confirm/WGQDM37G" target="_blank">Certificate</a>
+
+
+
+<h2 id="programming-languages-tools">Programming Languages/Tools
+    <sup><a href="#toc" style="font-size: 0.7em;">&#8593;</a></sup>
+</h2>
+
+<h3 id="udemy-ios-swift-bootcamp">iOS & Swift - The Complete iOS App Development Bootcamp &#10003;</h3>
+- **Institution:** Udemy
+- **Platform:** Udemy
+- **Date Completed:** July 8, 2021
+- **Enrollment:** Paid $10 to $20
+- **Links:** <a href="https://www.udemy.com/certificate/UC-356f9441-bb56-48cb-917c-601fc04f741c/" target="_blank">Certificate</a>
+
+<h3 id="udemy-golang-dev-guide">Go: The Complete Developer's Guide (Golang) &#10003;</h3>
+- **Institution:** Udemy
+- **Platform:** Udemy
+- **Date Completed:** January 6, 2021
+- **Enrollment:** Paid $10 to $20
+- **Links:** <a href="https://www.udemy.com/certificate/UC-c9ed77c3-6c5d-464c-9775-b10d8b403eeb/" target="_blank">Certificate</a>
