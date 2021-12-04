@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+
+    <title>About</title>
+
+    <meta charset="utf-8" />
+    <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Marifel Barbasa Full Atom Feed" />
+    <link rel="stylesheet" href="/theme/css/poole.css"/>
+    <link rel="stylesheet" href="/theme/css/syntax.css"/>
+    <link rel="stylesheet" href="/theme/css/lanyon.css"/>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+    <link rel="stylesheet" href="/theme/css/styles.css"/>
+  </head>
+
+  <body>
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <div class="profile">
+      <img src="/theme/img/profile.jpg"/>
+    </div>
+  </div>
+
+  <nav class="sidebar-nav">
+  <a class="sidebar-nav-item" href="/">All</a>
+
+      <a class="sidebar-nav-item" href="/category/machine-learning.html">Machine Learning</a>
+
+      <a class="sidebar-nav-item" href="/pages/about.html">About</a>
+      <a class="sidebar-nav-item" href="/pages/course-history.html">Course&nbsp;History</a>
+      <a class="sidebar-nav-item" href="/pages/projects.html">Projects</a>
+
+      <a class="sidebar-nav-item" href="https://github.com/mrbarbasa">GitHub</a>
+      <a class="sidebar-nav-item" href="https://www.kaggle.com/mrbarbasa">Kaggle</a>
+      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/mrbarbasa">LinkedIn</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+    <a href="https://twitter.com/mrbarbasa">&copy; mrbarbasa</a> 2018
+    </p>
+    <p class="tiny-note">
+      <a class="muted" href="https://github.com/thomaswilley/pelicanyan">pelicanyan v0.1</a>
+    </p>
+  </div>
+</div>    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Marifel Barbasa</a>
+            <small>musings of a lifelong learner</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+    <h1>About</h1>
+    
+
+    <p>I&#8217;m a software engineer with a strong interest in machine learning, particularly natural language processing. But for my next role, I&#8217;d love to gain more experience with backend engineering for distributed systems at scale, since I&#8217;ve primarily worked at smaller companies in the past. My other role interests involve developer tooling, the <span class="caps">AR</span>/<span class="caps">VR</span> space, developing iOS apps using Swift, and opportunities to work with the Go programming&nbsp;language.</p>
+<p>I&#8217;m currently on the job hunt for remote software engineering roles, aiming to start applying in January 2022. I&#8217;m located in Hawaii but intend to move to the continental <span class="caps">U.S.</span> at some point in&nbsp;2022.</p>
+<p>Beforehand, I worked as a Data Engineering Contractor at AddShoppers and as a Machine Learning Engineer at Toucan <span class="caps">AI</span> (wearing many hats there, including Full-Stack / DevOps / <span class="caps">UI</span>/<span class="caps">UX</span> Engineer). At Toucan <span class="caps">AI</span>, I worked alongside the <span class="caps">CEO</span> and <span class="caps">CTO</span> in developing an <span class="caps">AI</span> salesperson chatbot to help elevate shoppers&#8217; experience on ecommerce websites. It was a joy to have spent most of my time working on challenging <span class="caps">NLP</span> problems and to investigate modern or state-of-the-art research and approaches that we could apply to our conversational <span class="caps">AI</span>.</p>
+<p>I was fortunate to have made that transition to an <span class="caps">ML</span> opportunity, because before Toucan <span class="caps">AI</span>, I had dedicated myself to self-studying <span class="caps">ML</span> full-time and had graduated from four of Udacity&#8217;s <span class="caps">AI</span>-related Nanodegree programs in&nbsp;2018.</p>
+<p>Prior to my journey of <span class="caps">ML</span> self-study, I developed various JavaScript (primarily Node.js and React) web applications at <a href="https://sudokrew.com/" target="_blank">Sudokrew</a> for clients in the education and energy industries for three years, and beforehand, worked at <a href="http://www.boeing.com/" target="_blank">Boeing</a> for two years, developing and maintaining C# and Java web applications for internal customers. I graduated from <a href="https://www.devleague.com/" target="_blank">DevLeague</a>, Hawaii&#8217;s first coding bootcamp, in 2015 and from the <a href="http://www.ics.hawaii.edu/" target="_blank">University of Hawaiʻi at Mānoa</a> with a Bachelor of Science in Computer Science in&nbsp;2012.</p>
+
+      </div>
+
+      <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+      <script>
+        (function(document) {
+          var i = 0;
+          // snip empty header rows since markdown can't
+          var rows = document.querySelectorAll('tr');
+          for(i=0; i<rows.length; i++) {
+            var ths = rows[i].querySelectorAll('th');
+            var rowlen = rows[i].children.length;
+            if (ths.length > 0 && ths.length === rowlen) {
+              rows[i].remove();
+            }
+          }
+        })(document);
+      </script>
+
+      <script>
+        /* Lanyon & Poole are Copyright (c) 2014 Mark Otto. Adapted to Pelican 20141223 and extended a bit by @thomaswilley */
+        (function(document) {
+          var toggle = document.querySelector('.sidebar-toggle');
+          var sidebar = document.querySelector('#sidebar');
+          var checkbox = document.querySelector('#sidebar-checkbox');
+          document.addEventListener('click', function(e) {
+            var target = e.target;
+            if(!checkbox.checked ||
+            sidebar.contains(target) ||
+            (target === checkbox || target === toggle)) return;
+            checkbox.checked = false;
+            }, false);
+            })(document);
+      </script>
+     </div>
+  </body>
+</html>
