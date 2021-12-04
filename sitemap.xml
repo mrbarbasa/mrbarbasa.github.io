@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://mrbarbasa.github.io/reproducible-ai.html</loc>
+    <loc>/reproducible-ai.html</loc>
     <priority>0.8</priority>
   </url>
 
 
   <url>
-    <loc>https://mrbarbasa.github.io/pages/about.html</loc>
+    <loc>/pages/about.html</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://mrbarbasa.github.io/pages/course-history.html</loc>
+    <loc>/pages/course-history.html</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://mrbarbasa.github.io/pages/projects.html</loc>
+    <loc>/pages/projects.html</loc>
     <priority>1.0</priority>
   </url>
 
