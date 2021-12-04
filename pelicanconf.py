@@ -21,7 +21,7 @@ FEED_ALL_RSS = None # 'feeds/all.rss.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None # 'feeds/%s.rss.xml'
+AUTHOR_FEED_RSS = None # 'feeds/{slug}.rss.xml'
 RSS_FEED_SUMMARY_ONLY = False
 
 # Blogroll
