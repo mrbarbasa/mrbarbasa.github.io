@@ -27,7 +27,6 @@ RSS_FEED_SUMMARY_ONLY = False
 # Blogroll
 LINKS = (
     ('GitHub', 'https://github.com/mrbarbasa'),
-    ('Kaggle', 'https://www.kaggle.com/mrbarbasa'),
     ('LinkedIn', 'https://www.linkedin.com/in/mrbarbasa'),)
 
 # Uncomment following line if you want document-relative URLs
